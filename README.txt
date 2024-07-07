@@ -1,4 +1,4 @@
-View webpage: https://raimoncoding.github.io/fashion/
+View webpage: https://raimonvibe.github.io/fashion/
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
